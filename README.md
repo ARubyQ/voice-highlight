@@ -11,11 +11,12 @@ Nothing is transmitted except a tiny “speaking / silent” flag through Foundr
 
 * **Instant outline** when you speak, **soft fade-out** on silence.
 * Per-client settings – every player chooses their own threshold, colour, outline width and silence timeout.
-* Pure client-side; no server modules, no Discord bot, no permissions hassle.
+* Pure client-side; no server modules
 
 ### Installation
 
-1. Copy the module folder to your `Data/modules/` directory **or** add the manifest URL to Foundry’s “Install Module” dialog.
+1. Copy the module folder to your `Data/modules/` directory **or** add the manifest URL to Foundry’s “Install Module” dialog:
+	* https://github.com/ARubyQ/voice-highlight/releases/latest/download/module.json
 2. Enable **Voice Highlight** in *Game Settings → Manage Modules*.
 3. Ask every player to enable microphone access when prompted.
 
